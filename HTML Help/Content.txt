@@ -1,0 +1,38 @@
+::::: TOC ::::
+***********
+0) Concept of GCD [Great Distance Calculator]
+______________________________________________________________
+
+1) Pre-Requisite's
+		
+	-> Understanding :: 
+			  | Latitudes
+			  | Longitudes
+			  | Degree-Min-Sec Notation
+			  | Pure Degree Notation
+			  | Radians Notation
+______________________________________________________________
+
+2) How to Use GCD Calculator
+
+	-> 	Method-1 : Manual Input
+			
+	->	Method-2 : Direct-from-DataBase
+______________________________________________________________
+
+3) DataBase Structure
+	
+	-> Browsing Countries and States [S2C]
+
+	-> Entering In DataBase : Using DB Entry Form [S2C]
+______________________________________________________________
+
+4) Formulae References
+______________________________________________________________
+
+5) References
+______________________________________________________________
+
+6) Contact Me
+______________________________________________________________
+******************** THE END OF MANUAL ************************

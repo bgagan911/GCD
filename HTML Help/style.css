@@ -1,0 +1,42 @@
+.body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-right: 50px;
+	/*width: 560px;*/
+	text-align: center;
+	vertical-align: text-bottom;	
+	margin-left: 110px;
+	border: 1px solid #0099FF/*#6495ED*/;
+}
+.heading {
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #0099FF;
+	text-align: center;
+}
+
+.content{
+	font-size: smaller;
+	text-align: left;
+	padding-left: 15px;
+}
+
+.sub_heading{
+	background-color:#708090;
+	font-weight: bold;
+	color: White;
+	padding-left: 5px;
+}
+
+.footer{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	text-align: center;
+
+	margin-top: 10px;
+	margin-left: 110px;
+
+	background: #7184DB;
+	color: White;
+}
